@@ -1,3 +1,5 @@
+server.port: 9000
+
 my:
   greeting: Greeting from spring-boot-config microservice configuration file
   list:
