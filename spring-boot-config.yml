@@ -1,7 +1,7 @@
 server.port: 9000
 
 my:
-  greeting: Newly Updated Greeting message
+  greeting: Hello diway!
   list:
     values: one,two,three,four,five
 
