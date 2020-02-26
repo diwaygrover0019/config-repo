@@ -1,0 +1,11 @@
+my:
+  greeting: Greeting from spring-boot-config microservice configuration file
+  list:
+    values: one,two,three,four,five
+
+db:
+  connection: connection-string-here-from-config-server
+  host: 128.0.0.1
+  port: 4800
+
+management.endpoints.web.exposure.include: "*"
