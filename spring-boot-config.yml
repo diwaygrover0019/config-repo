@@ -1,7 +1,7 @@
 server.port: 9000
 
 my:
-  greeting: Greeting from spring-boot-config microservice configuration file
+  greeting: Updated Greeting from spring-boot-config microservice configuration file
   list:
     values: one,two,three,four,five
 
